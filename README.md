@@ -14,6 +14,10 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## usage
+press any button in the terminal to go to the next game
+
 ## to-do
 - [ ] accept user input to set range
 - [ ] accept user input to change the explanation when necessary
